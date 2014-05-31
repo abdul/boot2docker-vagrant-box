@@ -8,10 +8,10 @@ most minimal Docker environment possible.
 ## Usage
 
 The box is available on
-[Vagrant Cloud](https://vagrantcloud.com/mitchellh/boot2docker), making
+[Vagrant Cloud](https://vagrantcloud.com/abdul/boot2docker), making
 it very easy to use it:
 
-    $ vagrant init mitchellh/boot2docker
+    $ vagrant init abdul/boot2docker
     $ vagrant up
 
 If you want the actual box file, you can download it from the
